@@ -35,5 +35,3 @@ You can use a 64-bit architecture, 2GHz CPU, and 8GB RAM to perform all the step
 
 * [Learning Predictive Analytics with Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-predictive-analytics-python?utm_source=github&utm_medium=repository&utm_campaign=9781783983261)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
